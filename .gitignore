@@ -1,3 +1,15 @@
+.idea/
+*.iml
+out/
+target/
+bin/
+build/
+.gradle/
+artifacts/
+.DS_Store
+Thumbs.db
+.env
+
 # Compiled class file
 *.class
 
